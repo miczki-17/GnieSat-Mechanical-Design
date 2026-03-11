@@ -19,8 +19,7 @@ The mechanical design emphasizes compactness, modularity, and survival under ext
 * **Component Stack:** Includes top cover (parachute/GNSS), Geiger-Müller tube with dedicated vibration damping, stacked PCBs, central battery module, magnetometer, and bottom cover with a camera.
 * **Modular Housing:** Consists of 5 external parts (base, top, 2 side segments, sliding panel) allowing for rapid field maintenance and direct access to electronics without full disassembly.
 
-*(Insert your CAD render here showing the internal layout - e.g., image8.png)*
-`![Internal CAD View](Images/image8.png)`
+![Internal CAD View](Images/image8.png)
 
 ---
 
@@ -33,8 +32,7 @@ To withstand the rigorous flight conditions, standard PLA/PETG was insufficient.
 * **Variable Infill Strategy:** Standard structural components use 30% infill for weight reduction, while the bottom base (exposed to landing impacts) utilizes 50% infill for maximum compression resistance.
 * **Post-processing:** All exterior surfaces were sanded and painted to smooth the aerodynamics and seal the carbon fiber skin.
 
-*(Insert your exterior CAD render or physical photo here - e.g., image5.png)*
-`![External CanSat View](link_to_your_image)`
+![External CanSat View](Images/image5.png)
 
 ---
 
