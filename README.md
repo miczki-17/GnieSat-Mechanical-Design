@@ -20,7 +20,7 @@ The mechanical design emphasizes compactness, modularity, and survival under ext
 * **Modular Housing:** Consists of 5 external parts (base, top, 2 side segments, sliding panel) allowing for rapid field maintenance and direct access to electronics without full disassembly.
 
 *(Insert your CAD render here showing the internal layout - e.g., image8.png)*
-`![Internal CAD View](link_to_your_image)`
+`![Internal CAD View](Images/image8.png)`
 
 ---
 
